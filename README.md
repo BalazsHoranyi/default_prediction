@@ -20,7 +20,7 @@ Accuracy (Percent Correct classified) was chosen as the final indicator. An Accu
 The model choice is rather naive but with proper hyperparameter tuning, good results can be achieved. Optuna was used to assist in hyperparameter tuning. A Parallel Coordinates plot is shown below 
 to showcase the bredth of the search space
 
-![parallel_coordinates](./imgs/parallel_coordinates.png)
+![parallel_coordinates](./imgs/Parallel_Coordinates.png)
  
 
 ## Next Steps
