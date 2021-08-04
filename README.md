@@ -26,7 +26,7 @@ to showcase the bredth of the search space
 ## Next Steps
 Next steps on this model would be to add more hyperparameters such as learning rate as well as a more through architecture search. 
 For the sake of simplicity only embedding dimensions and number of layers were considered. 
- Using more complex models such as TabNet more also improve model performance.
+ Using more complex models such as TabNet could also improve model performance.
  
  
 Other features such as zipcode and the corresponding relevant information (Average Wealth, Population Density, etc...) would probably provide usefull features as well.
